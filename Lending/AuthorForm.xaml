@@ -1,0 +1,17 @@
+﻿<Window x:Class="Lending.AuthorForm"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Lending"
+        mc:Ignorable="d"
+        Title="AuthorForm" Height="450" Width="800">
+	<Grid>
+		<Button Content="Create" HorizontalAlignment="Left" Height="31" Margin="259,265,0,0" VerticalAlignment="Top" Width="238" Click="CreateAuthor"/>
+		<Label Content="New Author" HorizontalAlignment="Left" Height="38" Margin="320,38,0,0" VerticalAlignment="Top" Width="100" FontSize="20" FontFamily="Tw Cen MT Condensed Extra Bold" RenderTransformOrigin="0.674,0.443"/>
+		<TextBox HorizontalAlignment="Left" Height="23" Margin="259,124,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="238" Name="firstNameBox"/>
+		<TextBox HorizontalAlignment="Left" Height="23" Margin="259,189,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="238" Name="lastNameBox"/>
+		<Label Content="First name" HorizontalAlignment="Left" Height="28" Margin="249,96,0,0" VerticalAlignment="Top" Width="82"/>
+		<Label Content="Last name&#xD;&#xA;" HorizontalAlignment="Left" Height="28" Margin="249,161,0,0" VerticalAlignment="Top" Width="82"/>
+	</Grid>
+</Window>

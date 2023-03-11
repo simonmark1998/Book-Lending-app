@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<students xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Student>
+    <FirstName>John</FirstName>
+    <LastName>Smith</LastName>
+    <Address>
+      <Street>Kossuth street</Street>
+      <HouseNumber>13</HouseNumber>
+      <PostalCode>1016</PostalCode>
+      <City>Budapest</City>
+    </Address>
+    <Email>johnsmith@imaginary.com</Email>
+  </Student>
+  <Student>
+    <FirstName>Mark</FirstName>
+    <LastName>Simon</LastName>
+    <Address>
+      <Street>Ordogarok street</Street>
+      <HouseNumber>1</HouseNumber>
+      <PostalCode>8200</PostalCode>
+      <City>Veszprem</City>
+    </Address>
+    <Email>simonmark1998@gmail.com</Email>
+  </Student>
+</students>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<books xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Book>
+    <Title>Epikthetos' book</Title>
+    <ISBN>432423-4342432</ISBN>
+    <Author>
+      <FirstName>Peter</FirstName>
+      <LastName>Fekete</LastName>
+    </Author>
+    <Publisher>Alexandra</Publisher>
+    <StartDate>03. 09. 2023</StartDate>
+    <EndDate>12. 31. 9999</EndDate>
+    <BorrowedBy>dskskdfk@gdisjgfi.com</BorrowedBy>
+  </Book>
+</books>

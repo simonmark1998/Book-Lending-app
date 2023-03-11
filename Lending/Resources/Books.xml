@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<books xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Book>
+    <Title>Lord of the Rings</Title>
+    <ISBN>9780544003415</ISBN>
+    <Author>
+      <FirstName>J.R.R</FirstName>
+      <LastName>Tolkien</LastName>
+    </Author>
+    <Publisher>Allen &amp; Unwin</Publisher>
+    <StartDate>0001-01-01T00:00:00</StartDate>
+    <EndDate>0001-01-01T00:00:00</EndDate>
+    <BorrowedBy />
+  </Book>
+  <Book>
+    <Title>Harry Potter and the Sorcerer's Stone</Title>
+    <ISBN>0439708184</ISBN>
+    <Author>
+      <FirstName>J.K.</FirstName>
+      <LastName>Rowling</LastName>
+    </Author>
+    <Publisher>Scholastic Corporation</Publisher>
+    <StartDate>2023-03-11T10:57:58.6762554+01:00</StartDate>
+    <EndDate>2023-03-11T10:58:04.9583524+01:00</EndDate>
+    <BorrowedBy></BorrowedBy>
+  </Book>
+  <Book>
+    <Title>And Then There Were None</Title>
+    <ISBN>0062073486</ISBN>
+    <Author>
+      <FirstName>Agatha</FirstName>
+      <LastName>Christie</LastName>
+    </Author>
+    <Publisher>Collins Crime Club</Publisher>
+    <StartDate>2023-03-11T10:58:01.426719+01:00</StartDate>
+    <EndDate>2023-03-11T10:58:06.522425+01:00</EndDate>
+    <BorrowedBy></BorrowedBy>
+  </Book>
+</books>
